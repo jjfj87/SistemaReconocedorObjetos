@@ -1,5 +1,5 @@
 /*
- * PROYECTO: 06 - CodigoColorAlPinchar
+ * PROYECTO: 09 - CodigoColorAlPinchar
  * OBJETIVO: Muestra en una ventana el frame original y al pulsar con el
  * 			raton aparece una nueva ventana con una etiqueta con los 
  * 			colores RGB del pixel.

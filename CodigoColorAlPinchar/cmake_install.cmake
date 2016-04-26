@@ -1,4 +1,4 @@
-# Install script for directory: /home/pi/opencv-3.0.0/release/06-CodigoColorAlPinchar
+# Install script for directory: /home/pi/opencv-3.0.0/release/09-CodigoColorAlPinchar
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ ELSE(CMAKE_INSTALL_COMPONENT)
   SET(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
 ENDIF(CMAKE_INSTALL_COMPONENT)
 
-FILE(WRITE "/home/pi/opencv-3.0.0/release/06-CodigoColorAlPinchar/${CMAKE_INSTALL_MANIFEST}" "")
+FILE(WRITE "/home/pi/opencv-3.0.0/release/09-CodigoColorAlPinchar/${CMAKE_INSTALL_MANIFEST}" "")
 FOREACH(file ${CMAKE_INSTALL_MANIFEST_FILES})
-  FILE(APPEND "/home/pi/opencv-3.0.0/release/06-CodigoColorAlPinchar/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
+  FILE(APPEND "/home/pi/opencv-3.0.0/release/09-CodigoColorAlPinchar/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
 ENDFOREACH(file)
